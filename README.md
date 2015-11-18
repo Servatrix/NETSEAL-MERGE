@@ -4,7 +4,7 @@ Transfer your users from NetSeal to Servatrix
 # !Warning!
 Usage of this class may result in abuse. The NetSeal API provides no function to get license details.
 Therefor we can not verify if the expiry date provided on the request is correct.
-Please verify the license expiry data within Servatrix with the one of the banned NetSeal user.
+Please verify the license expiry date within Servatrix with the one of the banned NetSeal user.
 
 # Usage
 To transfer the user compile call the Transfer function with your program ID.
